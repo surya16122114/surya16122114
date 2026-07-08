@@ -111,4 +111,5 @@ Highly available AWS infrastructure provisioned end-to-end with **Terraform** an
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat&logo=vercel&logoColor=white)](https://chinnasuryaprasad-portfolio-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinnasurya-prasad-vulavala-119b5816b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/surya_1612/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chinnasuryaprasad2001@gmail.com)

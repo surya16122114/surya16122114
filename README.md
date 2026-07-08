@@ -107,13 +107,6 @@ Highly available AWS infrastructure provisioned end-to-end with **Terraform** an
 
 ---
 
-## 📊 GitHub Stats
-
-![Chinnasurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya16122114&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surya16122114&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=flat&logo=vercel&logoColor=white)](https://chinnasuryaprasad-portfolio-website.vercel.app/)
